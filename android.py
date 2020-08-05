@@ -65,4 +65,4 @@ def __date_to_ymd__(date: str):
 
 
 def do():
-    print(get_latest_bulletin())
+    return get_latest_bulletin()

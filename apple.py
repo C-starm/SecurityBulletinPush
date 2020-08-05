@@ -27,4 +27,4 @@ def __send_request__(path: str):
 
 
 def do():
-    print(get_latest_security_update())
+    return get_latest_security_update()
